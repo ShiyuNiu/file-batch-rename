@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# 获取当前路径下所有文件
-# 遍历文件列表，重命名
-
 prefix=$1
 suffix=$2
 idx=1
